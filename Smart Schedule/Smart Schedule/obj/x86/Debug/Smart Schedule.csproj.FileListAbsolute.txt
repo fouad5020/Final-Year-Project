@@ -1,0 +1,14 @@
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\bin\Debug\Smart Schedule.exe
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\bin\Debug\Smart Schedule.pdb
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart Schedule.csproj.ResolveComReference.cache
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart_Schedule.BatchSelector.resources
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart_Schedule.Main_Menu.resources
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart_Schedule.NewSchedule.resources
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart_Schedule.ScheduleOpt.resources
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart_Schedule.SmartSchedule.resources
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart_Schedule.Properties.Resources.resources
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart Schedule.csproj.GenerateResource.Cache
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart Schedule.exe
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\obj\x86\Debug\Smart Schedule.pdb
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\bin\Debug\Smart Schedule.exe.config
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\Smart Schedule\Smart Schedule\bin\Debug\Icon.ico
